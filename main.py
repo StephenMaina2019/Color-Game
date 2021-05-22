@@ -53,7 +53,7 @@ def nextColour():
 		label.config(fg = str(colours[1]), text = str(colours[0])) 
 		
 		# update the score. 
-		scoreLabel.config(text = "Score: " + str(score)) 
+		scoreLabel.config(text = "Score: " + str(score))
 
 
 # Countdown timer function 
